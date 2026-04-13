@@ -10,7 +10,6 @@
 
 ## Current Projects
 - **Wizard's Chess** - Harry Potter-themed 3D multiplayer chess app
-- **Claude Code Plugin** - Custom skills & MCP integrations
 
 
 ## GitHub Activity
