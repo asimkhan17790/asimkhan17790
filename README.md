@@ -11,3 +11,7 @@
 ## Current Projects
 - **Wizard's Chess** - Harry Potter-themed 3D multiplayer chess app
 - **Claude Code Plugin** - Custom skills & MCP integrations
+
+## GitHub Activity
+
+[![Asim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asimkhan17790&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
