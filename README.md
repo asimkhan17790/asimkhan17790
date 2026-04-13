@@ -12,6 +12,9 @@
 - **Wizard's Chess** - Harry Potter-themed 3D multiplayer chess app
 - **Claude Code Plugin** - Custom skills & MCP integrations
 
+
 ## GitHub Activity
+
+[![Activity Graph](https://ghchart.rshah.org/asimkhan17790)](https://github.com/asimkhan17790)
 
 ![Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=asimkhan17790&theme=github-compact&hide_title=true&area=true&custom_title=)
