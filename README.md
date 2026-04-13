@@ -14,4 +14,4 @@
 
 ## GitHub Activity
 
-[![Asim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asimkhan17790&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://ghchart.rshah.org/YOUR_USERNAME)](https://github.com/asimkhan17790)
