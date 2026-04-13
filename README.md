@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Asim 👋
 
-<!--
-**asimkhan17790/asimkhan17790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Jersey City, NJ | 💼 Software Engineer @ Goldman Sachs
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Building agentic AI tools and exploring the Claude ecosystem.
+
+## Current Projects
+- **Wizard's Chess** - Harry Potter-themed 3D multiplayer chess app
+- **Claude Code Plugin** - Custom skills & MCP integrations
