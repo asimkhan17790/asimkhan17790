@@ -6,11 +6,11 @@
 
 ## 👤 About Me
 
+📍 **Jersey City, NJ**
 🏦 Software Engineer at **Goldman Sachs**<br>
 🤖 Passionate about **Agentic AI**, full-stack AI development, and creative side projects<br>
 ♟️ Currently building **The Sorcerer's Board** — a Harry Potter-themed 3D multiplayer chess game<br>
 🧠 Exploring the **Claude / Anthropic ecosystem** and AI-powered tools<br>
-📍 Based in **Jersey City, NJ**
 
 ---
 
