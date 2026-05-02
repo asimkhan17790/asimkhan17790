@@ -36,6 +36,8 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
 
@@ -49,6 +51,10 @@
 
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimkhan17790&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" alt="GitHub Activity Graph" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asimkhan17790&style=flat-square&color=58A6FF" alt="Profile views" />
