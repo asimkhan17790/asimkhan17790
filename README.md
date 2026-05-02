@@ -45,7 +45,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [♟️ Wizard's Chess](https://github.com/asimkhan17790/harryPotterChess) | Harry Potter-themed 3D multiplayer chess game | React, Three.js, Socket.io, Supabase |
+| [♟️ The Sorcerer's Board](https://github.com/asimkhan17790/harryPotterChess) | Harry Potter-themed 3D multiplayer chess game | React, Three.js, Socket.io, Supabase |
 | [🧠 MindTherapy](https://github.com/asimkhan17790/mindtherapy) | AI-powered mental health and therapy companion app | Dart, Flutter |
 | [🎬 ReelRaider](https://github.com/asimkhan17790/reelraider) | Automated viral YouTube clip pipeline — find, clip, caption, upload | Python |
 
@@ -53,7 +53,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimkhan17790&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <div align="center">
