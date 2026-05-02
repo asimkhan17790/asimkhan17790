@@ -52,6 +52,14 @@
 
 ---
 
+## 🤝 Connect with Me
+
+<a href="https://www.linkedin.com/in/asimkhan17/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/github-contribution-grid-snake-dark.svg" />
