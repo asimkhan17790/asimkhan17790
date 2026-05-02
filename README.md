@@ -72,6 +72,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asimkhan17790&style=flat-square&color=58A6FF" alt="Profile views" />
 </div>
