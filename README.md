@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Hey+%F0%9F%91%8B+I'm+Asim;Software+Engineer+%40+Goldman+Sachs;Building+with+AI+%26+Full-Stack+Tech;Jersey+City%2C+NJ+%F0%9F%8C%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Hey+%F0%9F%91%8B+I'm+Asim;Software+Engineer+%40+Goldman+Sachs;Building+with+AI+%26+Full-Stack+Tech;New+York+City%2C+NY+%F0%9F%8C%86" alt="Typing SVG" />
 </div>
 
 <br/>
 
-📍 **Jersey City, NJ**<br>
+📍 **New York City, NY**<br>
 🏦 Software Engineer at **Goldman Sachs**<br>
 🤖 Passionate about **Agentic AI**, full-stack AI development, and creative side projects<br>
 ♟️ Currently building **The Sorcerer's Board** — a Harry Potter-themed 3D multiplayer chess game<br>
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -52,10 +52,13 @@
 
 ---
 
-## 🤝 Connect with Me
+## Connect
 
 <a href="https://www.linkedin.com/in/asimkhan17/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/asimkhan17790" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 ---
