@@ -1,0 +1,48 @@
+name: Generate Profile Assets
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # Generate snake animation SVGs
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Generate profile summary cards
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: output
+          UTC_OFFSET: -4
+          AUTO_PUSH: "false"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Copy summary card output into dist so everything pushes together
+      - name: Merge outputs
+        run: cp -r profile-summary-card-output dist/
+
+      # Push everything to the output branch in one go
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

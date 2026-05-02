@@ -6,10 +6,10 @@
 
 ## 👤 About Me
 
-🏦 Software Engineer at **Goldman Sachs**
-🤖 Passionate about **agentic AI**, full-stack development, and creative side projects
-♟️ Currently building **Wizard's Chess** — a Harry Potter-themed 3D multiplayer chess game
-🧠 Exploring the **Claude / Anthropic ecosystem** and AI-powered tools
+🏦 Software Engineer at **Goldman Sachs**<br>
+🤖 Passionate about **agentic AI**, full-stack development, and creative side projects<br>
+♟️ Currently building **Wizard's Chess** — a Harry Potter-themed 3D multiplayer chess game<br>
+🧠 Exploring the **Claude / Anthropic ecosystem** and AI-powered tools<br>
 📍 Based in **Jersey City, NJ**
 
 ---
