@@ -56,31 +56,34 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/asimkhan17790/harryPotterChess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asimkhan17790&repo=harryPotterChess&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/asimkhan17790/mindtherapy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asimkhan17790&repo=mindtherapy&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/asimkhan17790/reelraider">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asimkhan17790&repo=reelraider&theme=github_dark&hide_border=true" />
-  </a>
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [♟️ Wizard's Chess](https://github.com/asimkhan17790/harryPotterChess) | Harry Potter-themed 3D multiplayer chess game | React, Three.js, Socket.io, Supabase |
+| [🧠 MindTherapy](https://github.com/asimkhan17790/mindtherapy) | AI-powered mental health and therapy companion app | Dart, Flutter |
+| [🎬 ReelRaider](https://github.com/asimkhan17790/reelraider) | Automated viral YouTube clip pipeline — find, clip, caption, upload | Python |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asimkhan17790&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimkhan17790&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/profile-summary-card-output/github_dark/3-stats.svg" height="180" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/profile-summary-card-output/github_dark/4-productive-time.svg" height="180" alt="Productive Time" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimkhan17790&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=asimkhan17790&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
