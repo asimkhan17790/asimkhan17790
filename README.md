@@ -45,7 +45,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [♟️ The Sorcerer's Board](https://github.com/asimkhan17790/harryPotterChess) | Harry Potter-themed 3D multiplayer chess game | React, Three.js, Socket.io, Supabase |
+| [♟️ The Sorcerer's Board](https://harry-potter-chess-client.vercel.app/) | Harry Potter-themed 3D multiplayer chess game | React, Three.js, Socket.io, Supabase |
 | [🧠 MindTherapy](https://github.com/asimkhan17790/mindtherapy) | AI-powered mental health and therapy companion app | Dart, Flutter |
 | [🎬 ReelRaider](https://github.com/asimkhan17790/reelraider) | Automated viral YouTube clip pipeline — find, clip, caption, upload | Python |
 
