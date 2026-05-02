@@ -4,8 +4,6 @@
 
 <br/>
 
-## 👤 About Me
-
 📍 **Jersey City, NJ**
 🏦 Software Engineer at **Goldman Sachs**<br>
 🤖 Passionate about **Agentic AI**, full-stack AI development, and creative side projects<br>
