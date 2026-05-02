@@ -51,6 +51,17 @@
 
 
 ---
+## Github Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
 
 ## Connect
 
@@ -60,16 +71,6 @@
 <a href="https://github.com/asimkhan17790" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/asimkhan17790/asimkhan17790/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asimkhan17790&style=flat-square&color=58A6FF" alt="Profile views" />
