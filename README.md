@@ -45,7 +45,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| <a href="https://www.popthereveal.com/" target="_blank">🐝 Pop the Reveal</a> | Honeybee-themed balloon-pop party game for gender reveals — guests pick a team and play a physics-driven cannon round; scores stay hidden until the host runs the reveal | Next.js, TypeScript, Canvas, Supabase |
+| <a href="https://www.popthereveal.com/" target="_blank">🐝 Pop the Reveal</a> | Honeybee-themed balloon-pop party game for gender reveals — guests pick a team and play a physics-driven cannon round, while a live scoreboard shows which team is winning | Next.js, TypeScript, Canvas, Supabase |
 | <a href="https://harry-potter-chess-client.vercel.app/" target="_blank">♟️ The Sorcerer's Board</a> | Harry Potter-themed 3D multiplayer chess game | React, Three.js, Socket.io, Supabase |
 | [🧠 MindTherapy](https://github.com/asimkhan17790/mindtherapy) | AI-powered mental health and therapy companion app | Dart, Flutter |
 | [🎬 ReelRaider](https://github.com/asimkhan17790/reelraider) | Automated viral YouTube clip pipeline — find, clip, caption, upload | Python |
